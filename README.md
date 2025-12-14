@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayaskant</h1>
 <h3 align="center">Just a guy who loves programming</h3>
 
+<img src="https://raw.githubusercontent.com/ayaskant007/ayaskant007/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaskant007&label=Profile%20views&color=0e75b6&style=flat" alt="ayaskant007" /> </p>
 
 
