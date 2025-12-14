@@ -7,7 +7,11 @@
 <h1 align="center">Hi 👋, I'm Ayaskant</h1>
 <h3 align="center">Just a guy who loves programming</h3>
 
-<img src="https://raw.githubusercontent.com/ayaskant007/ayaskant007/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayaskant007/ayaskant007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayaskant007/ayaskant007/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayaskant007/ayaskant007/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
