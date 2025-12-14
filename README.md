@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaskant007&label=Profile%20views&color=0e75b6&style=flat" alt="ayaskant007" /> </p>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=ayaskant007" />
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lg2wj7nz76jgbu6vxuzql2mxly)
 <p align="left"> <a href="https://twitter.com/trackrip_games" target="blank"><img src="https://img.shields.io/twitter/follow/trackrip_games?logo=twitter&style=for-the-badge" alt="trackrip_games" /></a> </p>
 
 - 🌱 I’m currently learning **C++**
