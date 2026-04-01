@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Ayaskant</h1>
-<h3 align="center">Just a guy who loves programming</h3>
+<h3 align="center">Member and Volunteer Build Guild Delhi at Hack Club, Student at Indraprastha International School and Member of Tech Mobius</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayaskant007/ayaskant007/output/pacman-contribution-graph-dark.svg">
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **ayaskantsahoo007@gmail.com**
 
-- ⚡ Fun fact **I have been programming since I was 9 years.**
+- ⚡ Fun fact **I have been programming since I was 9 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
