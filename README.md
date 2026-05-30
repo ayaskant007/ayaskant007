@@ -52,7 +52,7 @@
 **Databases, Software & Tools**
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,supabase,git,github,androidstudio,blender,ps,unity,unreal,robloxstudio,firebase,netlify,npm,opencv,visualstudio,vscode" alt="Tools & DBs"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,supabase,git,github,blender,ps,unity,unreal,robloxstudio,firebase,netlify,npm,opencv,visualstudio,vscode" alt="Tools & DBs"/>
     </a>
 </div>
 
