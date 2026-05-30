@@ -52,7 +52,7 @@
 **Databases, Software & Tools**
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,androidstudio,blender,ps,unity,unreal" alt="Tools & DBs"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,androidstudio,blender,ps,unity,unreal,fusion" alt="Tools & DBs"/>
     </a>
 </div>
 
