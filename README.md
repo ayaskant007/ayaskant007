@@ -26,7 +26,7 @@
 
 
 <h3>Student | Software Developer | Tech Enthusiast</h3>
-
+<br>
 
  **• Core Team Member** @ Tech Mobius Club (The Technology Club of Indraprastha International School)
  
