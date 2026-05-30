@@ -6,13 +6,13 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header" alt="header"/> 
 
----
+
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FF2400&width=435&lines=Hello%2C+it's+Ayaskant+Sahoo;Software+Developer" alt="Software Developer"/>
 </a>
 
----
+
 
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
