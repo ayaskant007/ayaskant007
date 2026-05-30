@@ -1,42 +1,81 @@
 <!--
     Hey there, I'm Ayaskant Sahoo!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
+    Happy to see you here exploring my README code.
+    Feel free to draw inspiration!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header" alt="header"/> 
+<div align="center">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header" alt="header"/>
+</div>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FF2400&width=435&lines=Hello%2C+it's+Ayaskant+Sahoo;Software+Developer" alt="Software Developer"/>
-</a>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FF2400&center=true&vCenter=true&width=435&lines=Hello%2C+it's+Ayaskant+Sahoo;Software+Developer" alt="Software Developer"/>
+    </a>
+</div>
 
+<div align="center">
+    <img src="./assets/terminal.gif" alt="About Me Terminal GIF" width="600"/>
+</div>
 
+<br />
 
-<div>
-    <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+<div align="center">
+
+### A little about me...
+
+**Student | Software Developer | Tech Enthusiast**
+
+*   **Core Team Member** @ Tech Mobius Club (The Technology Club of Indraprastha International School)
+*   **Known Member** @ Hack Club
+*   **Student** @ Indraprastha International School, Dwarka
+
 </div>
 
 ---
 
-### Known Member of Hack Club, Core Team Member of the Tech Mobius Club (The Technology Club of Indraprastha International School, Dwarka), Student at Indraprastha International School, Dwarka
+### My Skills
+
+**Languages, Frameworks & Web**
+<div>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,js,nodejs,react,cs,dotnet,html,css,bootstrap" alt="Languages & Frameworks"/>
+    </a>
+</div>
+
+<br />
+
+**Databases, Software & Tools**
+<div>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,androidstudio,blender,ps,unity,unreal" alt="Tools & DBs"/>
+    </a>
+</div>
+
+<br />
+
+### Currently Learning
+<div>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,cpp,react,unreal" alt="Currently Learning"/>
+    </a>
+</div>
 
 ---
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,js,nodejs,react,cs,dotnet,html,css,bootstrap,androidstudio,blender,ps,unity,unreal)](https://skillicons.dev)
+### Connect with me!
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,cpp,react,unreal)](https://skillicons.dev)
-
----
-
-### Connect with me! (Readme Work in Progress)
 <div>
     <a href="https://www.linkedin.com/in/ayaskant-sahoo">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
-    <a href="https://www.linkedin.com/in/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    &nbsp;
+    <a href="mailto:your.email@example.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/ayaskant-sahoo">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
 </div>
 
@@ -47,9 +86,11 @@
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="example.com" download>Download my resume</a>
+> **[Click here to download my Resume](https://example.com/your-resume-link.pdf)**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer" alt="footer"/>
+<div align="center">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer" alt="footer"/>
+</div>
 
 <!--
      Thanks for being my guest :)
