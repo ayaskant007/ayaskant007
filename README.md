@@ -14,17 +14,14 @@
 
 ---
 
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
 <div>
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
-<!--
-     This is the list of my skills and tools I am studying!
--->
+---
+
+### Known Member of Hack Club, Core Team Member of the Tech Mobius Club (The Technology Club of Indraprastha International School, Dwarka), Student at Indraprastha International School, Dwarka
+
 ---
 
 ### Main skills
@@ -35,22 +32,12 @@
 
 ---
 
-### Known Member of Hack Club
-### Core Team Member of the Tech Mobius Club (The Technology Club of Indraprastha International School, Dwarka)
-### Student at Indraprastha International School, Dwarka
-
----
-
-<!--
-     Fast links to my socials!
--->
-
 ### Connect with me! (Readme Work in Progress)
 <div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+    <a href="https://www.linkedin.com/in/ayaskant-sahoo">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+    <a href="https://www.linkedin.com/in/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
 </div>
