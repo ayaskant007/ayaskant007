@@ -27,9 +27,9 @@
 
 **Student | Software Developer | Tech Enthusiast**
 
-** • Core Team Member** @ Tech Mobius Club (The Technology Club of Indraprastha International School)
-** • Known Member** @ Hack Club
-** • Student** @ Indraprastha International School, Dwarka
+ **• Core Team Member** @ Tech Mobius Club (The Technology Club of Indraprastha International School)**
+ **• Known Member** @ Hack Club**
+ **• Student** @ Indraprastha International School, Dwarka**
 
 </div>
 
