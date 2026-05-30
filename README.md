@@ -43,7 +43,7 @@
 **Languages, Frameworks & Web**
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,js,nodejs,react,cs,dotnet,html,css,bootstrap" alt="Languages & Frameworks"/>
+        <img src="https://skillicons.dev/icons?i=py,js,nodejs,react,nextjs,threejs,cs,dotnet,html,css,bootstrap,discordjs,fastapi," alt="Languages & Frameworks"/>
     </a>
 </div>
 
@@ -52,7 +52,7 @@
 **Databases, Software & Tools**
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,androidstudio,blender,ps,unity,unreal,fusion" alt="Tools & DBs"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,supabase,git,github,androidstudio,blender,ps,unity,unreal,robloxstudio,firebase,netlify,npm,opencv,visualstudio,vscode" alt="Tools & DBs"/>
     </a>
 </div>
 
@@ -74,7 +74,7 @@
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:ayaskantsahoo007@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
     </a>
     &nbsp;
@@ -90,7 +90,7 @@
 
 ### Employer?
 > [!IMPORTANT]  
-> **[Click here to download my Resume](https://example.com/your-resume-link.pdf)**
+> **[Click here to view my Portfolio](https://ayaskant007.is-a.dev)**
 
 <div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer" alt="footer"/>
