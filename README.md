@@ -71,7 +71,7 @@
 
 <div>
     <a href="https://ayaskant007.is-a.dev">
-        <img src="https://skillicons.dev/icons?i=website" alt="Portfolio" />
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/ayaskant-sahoo">
