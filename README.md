@@ -70,6 +70,10 @@
 ### Connect with me!
 
 <div>
+    <a href="https://ayaskant007.is-a.dev">
+        <img src="https://skillicons.dev/icons?i=website" alt="Portfolio" />
+    </a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/ayaskant-sahoo">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
@@ -78,8 +82,8 @@
         <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://github.com/ayaskant-sahoo">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <a href="https://instagram.com/ayaskant_007">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
     </a>
 </div>
 
