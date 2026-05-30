@@ -25,7 +25,7 @@
 ### A little about me...
 
 
-<h3>**Student | Software Developer | Tech Enthusiast**</h3>
+<h4>Student | Software Developer | Tech Enthusiast</h4>
 
  **• Core Team Member** @ Tech Mobius Club (The Technology Club of Indraprastha International School)
  
