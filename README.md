@@ -10,7 +10,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=25&duration=4500&pause=500&color=FF2400&center=true&vCenter=true&width=435&lines=Hello%2C+it's+Ayaskant+Sahoo;Software+Developer;Tech+Enthusiast;Hardware+Developer" alt="Software Developer,Hardware Developer,Tech Enthusiast"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=25&duration=4500&pause=500&color=FF2400&center=true&vCenter=true&width=435&lines=Hello%2C+it's+Ayaskant+Sahoo;Software+Developer;Tech+Enthusiast;Hardware+Developer;CTF+Player;Cybersecurity+Enthusiast" alt="Software Developer,Hardware Developer,Tech Enthusiast"/>
     </a>
 </div>
 
@@ -25,7 +25,7 @@
 ### A little about me...
 
 
-<h3>Student | Software Developer | Tech Enthusiast | Hardware Developer</h3>
+<h3>Student | Software Developer | Tech Enthusiast | Hardware Developer | CTF Player | Cybersecurity Enthusisast </h3>
 <br>
 
  **• Core Team Member** @ Tech Mobius Club (The Technology Club of Indraprastha International School)
